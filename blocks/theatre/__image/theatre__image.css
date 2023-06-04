@@ -1,0 +1,6 @@
+.theatre__image {
+    width: 540px;
+    height: 459px;
+    border-radius: 35px;
+    object-fit: cover;
+}

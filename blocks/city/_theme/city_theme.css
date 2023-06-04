@@ -1,0 +1,7 @@
+.city_theme {
+    width: 1368px;
+    margin: 36px auto 72px;
+    padding-top: 36px;
+    display: flex;
+    justify-content: space-between;
+}

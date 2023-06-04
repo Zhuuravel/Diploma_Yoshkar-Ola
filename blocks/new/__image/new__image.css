@@ -1,0 +1,6 @@
+.new__image {
+    width: 339px;
+    height: 252px;
+    object-fit: cover;
+    border-radius: 30px;
+}

@@ -1,0 +1,5 @@
+.city__row-text {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}

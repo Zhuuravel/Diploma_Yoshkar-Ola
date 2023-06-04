@@ -1,0 +1,8 @@
+.culture__article {
+    width: 1368px;
+    min-height: 612px;
+    margin: 83px auto 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

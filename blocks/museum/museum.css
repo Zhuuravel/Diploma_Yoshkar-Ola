@@ -1,0 +1,9 @@
+.museum {
+    width: 1296px;
+    border: 2px solid white;
+    border-radius: 40px;
+    margin: 0;
+    padding: 36px;
+    display: flex;
+    justify-content: space-between;
+}

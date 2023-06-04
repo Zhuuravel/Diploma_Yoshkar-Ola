@@ -1,0 +1,6 @@
+.event__image {
+    width: 249px;
+    height: 189px;
+    object-fit: cover;
+    border-radius: 25px;
+}

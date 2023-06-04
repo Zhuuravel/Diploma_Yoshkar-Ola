@@ -1,0 +1,6 @@
+.city {
+    width: 1368px;
+    margin: 83px auto 72px;
+    display: flex;
+    justify-content: space-between;
+}

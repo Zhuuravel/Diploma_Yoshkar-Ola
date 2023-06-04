@@ -1,0 +1,8 @@
+.about__image-theatre-column {
+    width: 584px;
+    height: 291px;
+    border-radius: 25px;
+    margin-left: 36px;
+    margin-top: 64px;
+    object-fit: cover;
+}

@@ -1,0 +1,12 @@
+.header__link {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    transition: opacity 0.3s ease;
+}
+
+.header__link:hover {
+    opacity: 0.3;
+}

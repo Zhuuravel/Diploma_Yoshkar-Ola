@@ -1,0 +1,6 @@
+.footer__contacts {
+    width: 168px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}

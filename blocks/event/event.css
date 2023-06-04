@@ -1,0 +1,13 @@
+.event {
+    box-sizing: border-box;
+    padding: 20px;
+    width: 289px;
+    height: 369px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+    border-radius: 30px;
+
+}

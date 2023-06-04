@@ -1,0 +1,10 @@
+.event__title {
+    text-align: left;
+    width: 197px;
+    font-family: 'Gilroy-Light', Arial, sans-serif;
+    color: #0D1420;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 700;
+    margin: 0;
+}

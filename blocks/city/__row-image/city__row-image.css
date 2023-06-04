@@ -1,0 +1,6 @@
+.city__row-image {
+    width: 258px;
+    height: 258px;
+    border-radius: 25px;
+    object-fit: cover;
+}

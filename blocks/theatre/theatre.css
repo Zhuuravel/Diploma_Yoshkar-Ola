@@ -1,0 +1,10 @@
+.theatre {
+    width: 1296px;
+    background-color: white;
+    border-radius: 40px;
+    margin: 0;
+    padding: 36px;
+    display: flex;
+    justify-content: space-between;
+    color: #0D1420;
+}

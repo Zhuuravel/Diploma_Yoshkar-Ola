@@ -1,0 +1,6 @@
+.city__image {
+    width: 578px;
+    height: 703px;
+    border-radius: 30px;
+    object-fit: cover;
+}

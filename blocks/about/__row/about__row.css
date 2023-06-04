@@ -1,0 +1,7 @@
+.about__row {
+    width: 1000px;
+    display: flex;
+    margin: 36px 36px 26px 36px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

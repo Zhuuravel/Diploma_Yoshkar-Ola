@@ -1,0 +1,10 @@
+.form__input-container-reg {
+    min-height: 210px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 160px 0 0 0;
+}

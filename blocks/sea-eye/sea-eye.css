@@ -1,0 +1,9 @@
+.sea-eye {
+    width: 845px;
+    height: 481px;
+    background-color: white;
+    border-radius: 35px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto 36px auto 0;
+}

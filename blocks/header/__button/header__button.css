@@ -1,0 +1,15 @@
+.header__button {
+    margin: 217px auto 0;
+    width: 203px;
+    height: 46px;
+    background-color: white;
+    background: linear-gradient(92.85deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.04) 100%);
+    backdrop-filter: blur(4px);
+    border-radius: 9px;
+    color: white;
+    transition: opacity 0.3s ease;
+}
+
+.header__button:hover {
+    opacity: 0.3;
+}

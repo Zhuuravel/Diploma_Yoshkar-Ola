@@ -1,0 +1,12 @@
+.about__theatre {
+    width: 656px;
+    min-height: 754px;
+    border-radius: 40px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: absolute;
+    top: 770px;
+    left: 36px;
+}

@@ -1,0 +1,7 @@
+.more {
+    background-image: url("../../images/trip_back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 590px;
+    padding-bottom: 36px;
+}

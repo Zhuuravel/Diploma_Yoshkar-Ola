@@ -1,0 +1,6 @@
+.museum__column {
+    display: flex;
+    flex-direction: column;
+    width: 648px;
+    padding: 0;
+}

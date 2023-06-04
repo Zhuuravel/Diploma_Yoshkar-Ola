@@ -1,0 +1,7 @@
+.pay {
+    width: 1368px;
+    margin: 0 auto;
+    padding: 36px;
+    display: flex;
+    justify-content: space-between;
+}

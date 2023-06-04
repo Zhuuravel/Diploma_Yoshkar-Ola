@@ -1,0 +1,5 @@
+.event__row {
+    width: 236px;
+    display: flex;
+    justify-content: space-between;
+}

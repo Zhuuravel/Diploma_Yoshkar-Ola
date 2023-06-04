@@ -1,0 +1,9 @@
+.article__item {
+    width: 1368px;
+    min-height: 553px;
+    border: 2px solid white;
+    border-radius: 40px;
+    margin: 140px auto;
+    display: flex;
+    justify-content: space-between;
+}

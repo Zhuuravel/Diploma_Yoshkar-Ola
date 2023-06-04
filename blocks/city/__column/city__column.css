@@ -1,0 +1,7 @@
+.city__column {
+    width: 754px;
+    height: 703px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

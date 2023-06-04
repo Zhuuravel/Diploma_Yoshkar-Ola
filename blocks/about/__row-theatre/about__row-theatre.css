@@ -1,0 +1,8 @@
+.about__row-theatre {
+    width: 217px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 36px;
+    margin-right: 25px;
+}

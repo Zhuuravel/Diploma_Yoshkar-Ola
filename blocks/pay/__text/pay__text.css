@@ -1,0 +1,6 @@
+.pay__text {
+    display: flex;
+    flex-direction: column;
+    width: 738px;
+    padding: 0;
+}

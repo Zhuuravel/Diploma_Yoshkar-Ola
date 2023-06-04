@@ -1,0 +1,8 @@
+.school {
+    background-color: white;
+    border-radius: 30px;
+    margin: 36px;
+    padding: 36px;
+    display: flex;
+    justify-content: space-between;
+}

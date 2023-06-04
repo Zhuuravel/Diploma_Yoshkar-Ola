@@ -1,0 +1,11 @@
+.form__container-reg {
+    width: 1095px;
+    height: 573px;
+    background-image: url("../../../images/r.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    margin: 83px auto 0;
+}

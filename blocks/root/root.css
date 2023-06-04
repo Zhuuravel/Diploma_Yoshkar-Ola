@@ -1,0 +1,13 @@
+.root {
+    min-width: 1100px;
+    max-width: 1600px;
+    min-height: 100vh;
+    margin: 0 auto;
+    font-family: 'Gilroy-Light', Arial, sans-serif;
+    font-weight: lighter;
+    color: white;
+    letter-spacing: 0.1em;
+    box-sizing: border-box;
+    background-color: #0D1420;
+    text-align: justify;
+}

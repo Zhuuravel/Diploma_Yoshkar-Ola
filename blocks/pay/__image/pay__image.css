@@ -1,0 +1,6 @@
+.pay__image {
+    width: 594px;
+    height: 384px;
+    border-radius: 35px;
+    object-fit: cover;
+}

@@ -1,0 +1,12 @@
+.new {
+    box-sizing: border-box;
+    padding: 20px;
+    width: 379px;
+    height: 428px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+    border-radius: 35px;
+}
